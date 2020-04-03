@@ -1,0 +1,15 @@
+Django~=2.2.4
+
+# Blog with posts 
+
+# Post Model requirements
+### Attributes
+# title
+# text
+# author
+# created_date
+# published_date
+
+### Methods
+# publish method
+###
